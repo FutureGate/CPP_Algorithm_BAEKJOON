@@ -1,7 +1,9 @@
 # CPP_BAEKJOON
 백준 알고리즘 문제풀이
 
-> # 백준 프로필
-> https://www.acmicpc.net/user/team_futuregate
+<br/>
+
+# 백준 프로필
+https://www.acmicpc.net/user/team_futuregate
 
 > 2019년 01월 01일 부터 문제풀이 중....
