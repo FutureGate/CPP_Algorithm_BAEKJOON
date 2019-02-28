@@ -14,11 +14,3 @@ https://www.acmicpc.net/user/team_futuregate
 
 <br/>
 <br/>
-
-# 못 푼 문제
-
-<br/>
-
-> 2448
-> 3169
-> 1011
